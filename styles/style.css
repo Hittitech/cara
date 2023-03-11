@@ -447,7 +447,7 @@
         
     }
     #ban .boxes1{
-        background-image: url("/banner/b17.jpg");
+        background-image: url("../banner/b17.jpg");
     
     }
     #ban .boxes1 h4,#ban .boxes1 h2,#ban .boxes1 p{
@@ -458,7 +458,7 @@
     }
 
     #ban .boxes2{
-        background-image: url("/banner/b10.jpg");
+        background-image: url("../banner/b10.jpg");
     
     }
      .transparentbutton{
