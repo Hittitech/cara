@@ -307,7 +307,7 @@
     #banners .content{
         text-align: center;
         justify-content: center;
-        background-image: url("/banner/b2.jpg");
+        background-image: url("../banner/b2.jpg");
         padding: 60px 40px;
         background-size: cover;
         display: flex;
